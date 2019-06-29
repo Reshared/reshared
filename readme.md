@@ -3,7 +3,7 @@
 ### User
 - id
 - name
-- mobile
+- phone
 - email
 - avatar
 - password
